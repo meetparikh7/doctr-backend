@@ -1,6 +1,6 @@
 #Doctr
 
-More info available at [https://github.com/meghprkh/doctr]
+More info available [here](https://github.com/meghprkh/doctr)
 
 Demo - [Click here](https://doctr-meghprkh.rhcloud.com)
 
